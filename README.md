@@ -3,6 +3,8 @@
 This is the Milestone I project assignment of MADS program done by me and my teammate Harit Achanapornkul.
 I upload this project mainly to show our ability of conducting EDA and visualizing data findings.
 
+![Screenshot](https://github.com/Chienstartup/ISIC_2024/blob/main/isic_data/pauc.png)
+
 ## To use the ipynb
 ```
 Just click the EDA & Visualization notebook and click the open in Colab button.
