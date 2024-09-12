@@ -21,12 +21,16 @@ Our goal is to answer the following questions:
 
 ### Tuna species:
 •	The changes in the number of tuna species caught throughout these years.
+
 •	Where do different tuna species live?
+
 •	Are there any tuna species that suffer from overfishing?
 
 ### Commercial activities:
 •	What countries have caught most of the tuna?
+
 •	What countries import and export more tuna than others?
+
 •	How does the price of tuna fish affect overfishing?
 
 Once compiling insights, we would like to go deeper into the tuna topics and hope one day we can present our findings to offshore fisheries and attract their attention to the sustainability of tuna because current regulations are limited on a national level and have less impact on the fishery companies. We hope the tuna fishery can be sustainable and everyone can enjoy the taste of tuna sashimi.
