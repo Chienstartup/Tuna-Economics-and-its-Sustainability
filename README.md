@@ -3,6 +3,10 @@
 This is the Milestone I project assignment of MADS program done by me and my teammate Harit Achanapornkul.
 I upload this project mainly to show our ability of conducting EDA and visualizing data findings.
 
+## To use the ipynb
+
+Just click the EDA & Visualization notebook and click the open in Colab.
+
 ### Motivation
 Harit and I are both tuna lovers and enjoy the taste of tuna sashimi. However, we noticed more consumers are falling in love with tuna just like us in recent years, making us concerned about the tuna supply and raising questions about its sustainability. Thus, the nature of our project is to get the big picture of tuna economics and identify what factors might be correlated to the tuna caught volume and who are the major stakeholders in the tuna market, allowing us to anticipate the future of the tuna species.
 
