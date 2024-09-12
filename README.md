@@ -3,7 +3,7 @@
 This is the Milestone I project assignment of MADS program done by me and my teammate Harit Achanapornkul.
 I upload this project mainly to show our ability of conducting EDA and visualizing data findings.
 
-![Screenshot](https://github.com/Chienstartup/ISIC_2024/blob/main/isic_data/pauc.png)
+![Screenshot](https://github.com/Chienstartup/Tuna-Economics-and-its-Sustainability/blob/main/data%20source/tunaorg.jpg)
 
 ## To use the ipynb
 ```
